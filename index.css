@@ -1,0 +1,13 @@
+#jumbotron {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('./img/jumbotron-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ul li {
+   list-style: none;
+}
